@@ -8,6 +8,7 @@ body {
     background-color: red;
 }
 header {
+    max-height: 8vw;
     height: 8vh;
     width: 100vw;
     background-color: #E9ECEF;
@@ -16,9 +17,10 @@ header {
 .list1 {
     list-style-type: none;
     display: flex;
-    margin-top: 3vh;
+    margin-top: 2.9vh;
     gap: 3%;
 justify-content: center;
+font-size: 2vh;
 }
 .nav1 {
     color: #212529;
