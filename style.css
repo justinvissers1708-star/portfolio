@@ -13,3 +13,18 @@ header {
     background-color: #E9ECEF;
     position: fixed;
 }
+.list1 {
+    list-style-type: none;
+    display: flex;
+    margin-top: 3vh;
+    gap: 3%;
+justify-content: center;
+}
+.nav1 {
+    color: #212529;
+    text-decoration-line: none;
+}
+.nav1:hover {
+    color: #ff1010;
+    cursor: pointer;
+}
