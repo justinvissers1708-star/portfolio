@@ -9,7 +9,7 @@ body {
     background-color: red;
 }
 header {
-    max-height: 8vw;
+
     height: 8vh;
     width: 100%;
     background-color: #E9ECEF;
@@ -31,4 +31,3 @@ font-size: 2vh;
     color: #ff1010;
     cursor: pointer;
 }
- 
