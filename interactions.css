@@ -1,4 +1,9 @@
 .nav1:hover {
     color: #ff1010;
     cursor: pointer;
+   text-decoration-line: underline;
+   text-decoration-color: green;
+}
+.herotitletext1, .herotitletext2, .herotitletext3:hover {
+
 }

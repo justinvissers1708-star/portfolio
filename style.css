@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: red;
+    background-color: grey;
 }
 header {
     height: 8vh;
@@ -30,7 +30,4 @@ h1 {
 padding-top: 10vh;
 text-align: center;
 font-size: 3vw;
-}
-.imghero {
-    
 }

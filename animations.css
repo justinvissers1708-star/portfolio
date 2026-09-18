@@ -1,0 +1,42 @@
+@keyframes changecolor1 {
+    0% {color: black;}
+
+    50% {color: #ff0000;}
+
+    100% {color: black;}
+  
+}
+.span1 {
+animation: changecolor1 2s linear infinite;
+}
+.span2 {
+  animation: changecolor1 2.5s linear infinite;
+}
+.span3 {
+  animation: changecolor1 3s linear infinite;
+}
+.span4 {
+  animation: changecolor1 3.5s linear infinite;
+}
+.span5 {
+  animation: changecolor1 4s linear infinite;
+}
+.span6 {
+  animation: changecolor1 4.5s linear infinite;
+}
+.span7 {
+  animation: changecolor1 5s linear infinite;
+}
+.span8 {
+  animation: changecolor1 5.5s linear infinite;
+}
+
+/* .parallax {
+  background-image: url("sot2.jpg");
+  min-height: 100vh;
+scroll-behavior: smooth;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
