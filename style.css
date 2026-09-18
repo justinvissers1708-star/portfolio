@@ -26,12 +26,11 @@ font-size: 2vh;
     color: #212529;
     text-decoration-line: none;
 }
-.nav1:hover {
-    color: #ff1010;
-    cursor: pointer;
-}
 h1 {
 padding-top: 10vh;
 text-align: center;
 font-size: 3vw;
+}
+.imghero {
+    
 }
