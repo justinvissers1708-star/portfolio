@@ -31,9 +31,7 @@ font-size: 2vh;
     cursor: pointer;
 }
 h1 {
-position: absolute; 
-margin-top: 10vh;
-margin-left: 30vw;
+padding-top: 10vh;
 text-align: center;
 font-size: 3vw;
 }
