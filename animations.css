@@ -10,25 +10,25 @@
 animation: changecolor1 2s linear infinite;
 }
 .span2 {
-  animation: changecolor1 2.5s linear infinite;
+  animation: changecolor1 2.2s linear infinite;
 }
 .span3 {
-  animation: changecolor1 3s linear infinite;
+  animation: changecolor1 2.4s linear infinite;
 }
 .span4 {
-  animation: changecolor1 3.5s linear infinite;
+  animation: changecolor1 2.6s linear infinite;
 }
 .span5 {
-  animation: changecolor1 4s linear infinite;
+  animation: changecolor1 2.8s linear infinite;
 }
 .span6 {
-  animation: changecolor1 4.5s linear infinite;
+  animation: changecolor1 3s linear infinite;
 }
 .span7 {
-  animation: changecolor1 5s linear infinite;
+  animation: changecolor1 3.2s linear infinite;
 }
 .span8 {
-  animation: changecolor1 5.5s linear infinite;
+  animation: changecolor1 3.4s linear infinite;
 }
 
 /* .parallax {
