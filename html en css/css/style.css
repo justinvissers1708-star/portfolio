@@ -68,17 +68,19 @@ font-size: 3vw;
 }
 .images-websites {
     display: flex;
+    margin-top: 3%;
+    height: 200vh;
     flex-direction: column;
-    margin-top: -60%;
 }
 .sites1-3 {
      display: flex;
      justify-content: center;
      gap: 2.5%;
+     margin-top: 2%;
 }
 .website-1 {
 width: 30%;
-height: 50vh;
+height: 70vh;
 }
 .sites4-6 {
     margin-top: 2.5%;
