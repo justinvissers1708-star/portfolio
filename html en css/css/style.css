@@ -33,21 +33,24 @@ font-size: 3vw;
 }
 .herotext {
     margin-top: 10vw;
+    width: 33vw;
+    margin-left: 2vw;
 }
 .herotitletext1 {
 
+}
 .herotext1 {
-
+margin-top: 1vw;
 }
-}
-
 .herotitletext2 {
-   .herotext2 {
-
+margin-top: 1vw;
 }
+.herotext2 {
+margin-top: 1vw;
 }
 .herotitletext3 {
-   .herotext3 {
-
+margin-top: 1vw;
 }
+.herotext3 {
+margin-top: 1vw;
 }
