@@ -1,0 +1,175 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/justinvissers/Library/CloudStorage/OneDrive-Curio/alle school projecten/jaar2/portfolio/opdrachten/mainvisitekaarje map/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:810732015
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BalooPaaji2-Bold
+FamilyName:Baloo Paaji 2
+StyleName:Bold
+MenuName:Baloo Paaji 2
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Baloo Paaji 2 Bold
+WritingScript:Roman
+OutlineFileName:/Users/justinvissers/Library/CloudStorage/OneDrive-Curio/alle school projecten/jaar2/portfolio/opdrachten/mainvisitekaarje map/Document fonts/BalooPaajiGurmukhi.ttc
+TTCOffset:896
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1503028
+FileModTime:775434322
+NameArray:0,Win,1,Baloo Paaji 2
+NameArray:9,Win,1,बालू पाजी 2
+NameArray:10,Win,1,ਬਾਲੂ ਭਾਜੀ 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BalooPaaji2-ExtraBold
+FamilyName:Baloo Paaji 2
+StyleName:ExtraBold
+MenuName:Baloo Paaji 2 ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Baloo Paaji 2 ExtraBold
+WritingScript:Roman
+OutlineFileName:/Users/justinvissers/Library/CloudStorage/OneDrive-Curio/alle school projecten/jaar2/portfolio/opdrachten/mainvisitekaarje map/Document fonts/BalooPaajiGurmukhi.ttc
+TTCOffset:1180
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1503028
+FileModTime:775434322
+NameArray:0,Win,1,Baloo Paaji 2 ExtraBold
+NameArray:0,Win,16,Baloo Paaji 2
+NameArray:9,Win,1,बालू पाजी 2 एक्स्ट्रा बोल्ड
+NameArray:9,Win,16,बालू पाजी 2
+NameArray:10,Win,1,ਬਾਲੂ ਭਾਜੀ 2 ਐਕਸਟ੍ਰਾਬੋਲਡ
+NameArray:10,Win,16,ਬਾਲੂ ਭਾਜੀ 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BalooPaaji2-Medium
+FamilyName:Baloo Paaji 2
+StyleName:Medium
+MenuName:Baloo Paaji 2 Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Baloo Paaji 2 Medium
+WritingScript:Roman
+OutlineFileName:/Users/justinvissers/Library/CloudStorage/OneDrive-Curio/alle school projecten/jaar2/portfolio/opdrachten/mainvisitekaarje map/Document fonts/BalooPaajiGurmukhi.ttc
+TTCOffset:328
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1503028
+FileModTime:775434322
+NameArray:0,Win,1,Baloo Paaji 2 Medium
+NameArray:0,Win,16,Baloo Paaji 2
+NameArray:9,Win,1,बालू पाजी 2 मीडियम
+NameArray:9,Win,16,बालू पाजी 2
+NameArray:10,Win,1,ਬਾਲੂ ਭਾਜੀ 2 ਮੀਡੀਅਮ
+NameArray:10,Win,16,ਬਾਲੂ ਭਾਜੀ 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BalooPaaji2-Regular
+FamilyName:Baloo Paaji 2
+StyleName:Regular
+MenuName:Baloo Paaji 2
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baloo Paaji 2 Regular
+WritingScript:Roman
+OutlineFileName:/Users/justinvissers/Library/CloudStorage/OneDrive-Curio/alle school projecten/jaar2/portfolio/opdrachten/mainvisitekaarje map/Document fonts/BalooPaajiGurmukhi.ttc
+TTCOffset:44
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1503028
+FileModTime:775434322
+NameArray:0,Win,1,Baloo Paaji 2
+NameArray:9,Win,1,बालू पाजी 2
+NameArray:10,Win,1,ਬਾਲੂ ਭਾਜੀ 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BalooPaaji2-SemiBold
+FamilyName:Baloo Paaji 2
+StyleName:SemiBold
+MenuName:Baloo Paaji 2 SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Baloo Paaji 2 SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/justinvissers/Library/CloudStorage/OneDrive-Curio/alle school projecten/jaar2/portfolio/opdrachten/mainvisitekaarje map/Document fonts/BalooPaajiGurmukhi.ttc
+TTCOffset:612
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1503028
+FileModTime:775434322
+NameArray:0,Win,1,Baloo Paaji 2 SemiBold
+NameArray:0,Win,16,Baloo Paaji 2
+NameArray:9,Win,1,बालू पाजी 2 सेमी बोल्ड
+NameArray:9,Win,16,बालू पाजी 2
+NameArray:10,Win,1,ਬਾਲੂ ਭਾਜੀ 2 ਸੈਮੀਬੋਲਡ
+NameArray:10,Win,16,ਬਾਲੂ ਭਾਜੀ 2
+%EndFont
+

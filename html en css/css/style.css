@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: #b5348b;
 }
 header {
     height: 8vh;
@@ -30,4 +30,24 @@ h1 {
 padding-top: 10vh;
 text-align: center;
 font-size: 3vw;
+}
+.herotext {
+    margin-top: 10vw;
+}
+.herotitletext1 {
+
+.herotext1 {
+
+}
+}
+
+.herotitletext2 {
+   .herotext2 {
+
+}
+}
+.herotitletext3 {
+   .herotext3 {
+
+}
 }
