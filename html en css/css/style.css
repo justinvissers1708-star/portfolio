@@ -58,11 +58,31 @@ margin-top: 1vw;
 .websites {
     margin-top: 4vh;
     background-color: #d41116;
-    height: 80vh;
+    height: 200vh;
 display: grid;
 }
 .title-websites {
     margin-top: 3%;
 text-align: center;
 font-size: 3vw;
+}
+.images-websites {
+    display: flex;
+    flex-direction: column;
+    margin-top: -60%;
+}
+.sites1-3 {
+     display: flex;
+     justify-content: center;
+     gap: 2.5%;
+}
+.website-1 {
+width: 30%;
+height: 50vh;
+}
+.sites4-6 {
+    margin-top: 2.5%;
+     display: flex;
+     justify-content: center;
+     gap: 2.5%;
 }
