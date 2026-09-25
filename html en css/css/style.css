@@ -82,9 +82,27 @@ font-size: 3vw;
 width: 30%;
 height: 70vh;
 }
+.website-2 {
+width: 30%;
+height: 70vh;
+}
+.website-3 {
+width: 30%;
+height: 70vh;
+}
 .sites4-6 {
     margin-top: 2.5%;
      display: flex;
      justify-content: center;
      gap: 2.5%;
+}
+.website-4 {
+width: 30%;
+height: 70vh;
+}.website-5 {
+width: 30%;
+height: 70vh;
+}.website-6 {
+width: 30%;
+height: 70vh;
 }

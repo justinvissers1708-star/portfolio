@@ -18,3 +18,42 @@ h1 {
 font-size: 1.7vh; 
 }
 }
+@media screen and (width <= 1025px) {
+    .images-websites {
+        display: flex;
+        flex-direction: row;
+    }
+    .sites1-3 {
+        display: flex;
+width: 100vw;
+        flex-direction: column;
+gap: 0%;
+    }
+.website-1 {
+width: 45%;
+margin-top: 0.5%;
+}
+.website-2{
+    width: 45%;
+}
+.website-3 {
+width: 45%;
+
+}
+
+.website-4 {
+width: 45%;
+
+
+border: 2px solid black;
+}
+.website-5 {
+width: 45%;
+
+}
+.website-6 {
+width: 45%;
+
+
+}
+}
