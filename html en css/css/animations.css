@@ -6,37 +6,38 @@
     100% {color: black;}
   
 }
-.span1 {
-animation: changecolor1 2s linear infinite;
-}
-.span2 {
-  animation: changecolor1 2.2s linear infinite;
-}
-.span3 {
-  animation: changecolor1 2.4s linear infinite;
-}
-.span4 {
-  animation: changecolor1 2.6s linear infinite;
-}
-.span5 {
-  animation: changecolor1 2.8s linear infinite;
-}
-.span6 {
-  animation: changecolor1 3s linear infinite;
-}
-.span7 {
-  animation: changecolor1 3.2s linear infinite;
-}
-.span8 {
-  animation: changecolor1 3.4s linear infinite;
-}
+@keyframes changecolor2 {
+     0% {color: black;}
 
-/* .parallax {
-  background-image: url("sot2.jpg");
-  min-height: 100vh;
-scroll-behavior: smooth;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
+    50% {color: #b5348b;}
+
+    100% {color: black;}
+}
+h1 span {
+  animation: changecolor1 3s ease-in-out infinite;
+}
+.span1 { animation-delay: 0.0s;}
+.span2 { animation-delay: 0.2s;}
+.span3 { animation-delay: 0.4s;}
+.span4 { animation-delay: 0.6s;}
+.span5 { animation-delay: 0.8s;}
+.span6 { animation-delay: 1.0s;}
+.span7 { animation-delay: 1.2s;}
+.span8 { animation-delay: 1.4s;}
+
+.title-websites, span {
+    animation: changecolor2 3s ease-in-out infinite;
+}
+.span9  { animation-delay: 0.0s;}
+.span10 { animation-delay: 0.2s;}
+.span11 { animation-delay: 0.4s;}
+.span12 { animation-delay: 0.6s;}
+.span13 { animation-delay: 0.8s;}
+.span14 { animation-delay: 1.0s;}
+.span15 { animation-delay: 1.2s;}
+.span16 { animation-delay: 1.4s;}
+.span17 { animation-delay: 1.6s;}
+.span18 { animation-delay: 1.8s;}
+.span19 { animation-delay: 2.0s;}
+.span20 { animation-delay: 2.2s;}
+

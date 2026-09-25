@@ -58,10 +58,11 @@ margin-top: 1vw;
 .websites {
     margin-top: 4vh;
     background-color: #d41116;
-    height: 60vh;
+    height: 80vh;
 display: grid;
 }
 .title-websites {
     margin-top: 3%;
 text-align: center;
+font-size: 3vw;
 }
