@@ -13,7 +13,7 @@
 
     100% {color: black;}
 }
-h1 span {
+h1 span  {
   animation: changecolor1 3s ease-in-out infinite;
 }
 .span1 { animation-delay: 0.0s;}
@@ -26,7 +26,7 @@ h1 span {
 .span8 { animation-delay: 1.4s;}
 
 .title-websites, span {
-    animation: changecolor2 3s ease-in-out infinite;
+    animation: changecolor2 3s linear infinite;
 }
 .span9  { animation-delay: 0.0s;}
 .span10 { animation-delay: 0.2s;}
@@ -41,3 +41,22 @@ h1 span {
 .span19 { animation-delay: 2.0s;}
 .span20 { animation-delay: 2.2s;}
 
+.titleadobe {
+       animation: changecolor 3s ease-in-out infinite;
+}
+.adobespan1 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 0.0s;}
+.adobespan2 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 0.2s;}
+.adobespan3 {  animation: changecolor1 3s ease-in-out infinite;animation-delay: 0.4s;}
+.adobespan4 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 0.6s;}
+.adobespan5 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 0.8s;}
+.adobespan6 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 1.0s;}
+.adobespan7 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 1.2s;}
+.adobespan8 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 1.4s;}
+.adobespan9 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 1.6s;}
+.adobespan10 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 1.8s;}
+.adobespan11 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 2.0s;}
+.adobespan12 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 2.2s;}
+.adobespan13 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 2.4s;}
+.adobespan14 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 2.6s;}
+.adobespan15 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 2.8s;}
+.adobespan16 { animation: changecolor1 3s ease-in-out infinite; animation-delay: 3.0s;}
