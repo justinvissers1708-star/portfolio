@@ -58,7 +58,7 @@ margin-top: 1vw;
 .websites {
     margin-top: 4vh;
     background-color: #d41116;
-    height: 200vh;
+    height: 350vh;
 display: grid;
 }
 .title-websites {
@@ -68,41 +68,51 @@ font-size: 3vw;
 }
 .images-websites {
     display: flex;
-    margin-top: 3%;
-    height: 200vh;
     flex-direction: column;
+    margin-top: 20%;
+    gap: 2.5%;
 }
-.sites1-3 {
-     display: flex;
-     justify-content: center;
-     gap: 2.5%;
-     margin-top: 2%;
+
+.sites1-2 {
+    display: flex;
+margin-top: -70vh;
+gap: 3%;
+justify-content: center;
 }
-.website-1 {
-width: 30%;
-height: 70vh;
+.site1 {
+    width: 40%;
+    height: 50vw;
 }
-.website-2 {
-width: 30%;
-height: 70vh;
+.site2 {
+    width: 40%;
+    height: 50vw;
 }
-.website-3 {
-width: 30%;
-height: 70vh;
+
+.sites3-4 {
+       display: flex;
+gap: 3%;
+justify-content: center;
+
+} 
+.site3 {
+    width: 40%;
+    height: 50vw;
+  
 }
-.sites4-6 {
-    margin-top: 2.5%;
-     display: flex;
-     justify-content: center;
-     gap: 2.5%;
+.site4 {
+    width: 40%;
+    height: 50vw;
 }
-.website-4 {
-width: 30%;
-height: 70vh;
-}.website-5 {
-width: 30%;
-height: 70vh;
-}.website-6 {
-width: 30%;
-height: 70vh;
+.sites5-6 {
+       display: flex;
+gap: 3%;
+justify-content: center;
+}
+.site5 {
+     width: 40%;
+    height: 50vw;
+}
+.site6 {
+     width: 40%;
+    height: 50vw;
 }
