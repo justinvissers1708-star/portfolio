@@ -125,13 +125,31 @@ justify-content: center;
 text-align: center;
 font-size: 3vw;
 }
+.adobe1-2 {
+    display: flex;
+    gap: 2.5%;
+}
 .text-adobe1 {
 margin-left: 10vw;
-padding-top: 9vw;
+padding-top: 5.53vw;
 font-size: 3vw;
 }
 .adobeimg1 {
     height: 40vw;
+    width: 40vw;
 margin-left: 10vw;
-margin-top: 1vw;
+
+}
+.adobe2 {
+
+}
+.text-adobe2 {
+margin-left: 10vw;
+padding-top: 9vw;
+font-size: 3vw;
+}
+.adobeimg2 {
+    height: 40vw;
+    width: 40vw;
+
 }
