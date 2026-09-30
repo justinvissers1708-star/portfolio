@@ -58,7 +58,7 @@ margin-top: 1vw;
 .websites {
     margin-top: 4vh;
     background-color: #d41116;
-    height: 350vh;
+    height: 370vh;
 display: grid;
 }
 .title-websites {
@@ -70,51 +70,85 @@ font-size: 3vw;
     display: flex;
     flex-direction: column;
     margin-top: 20%;
-    gap: 2.5%;
+    gap: 9.5%;
 }
 
 .sites1-2 {
     display: flex;
 margin-top: -70vh;
-gap: 3%;
-justify-content: center;
+
+
+}
+.textsite1 {
+    margin-top: -5vw;
+    font-size: 3vw;
+margin-left: 11vw;
 }
 .site1 {
     width: 40%;
     height: 50vw;
+    margin-left: -9vw;
+}
+.textsite2 {
+    margin-top: -5vw;
+    font-size: 3vw;
+margin-left: 10vw;
 }
 .site2 {
     width: 40%;
     height: 50vw;
+    margin-left: -10vw;
 }
 
 .sites3-4 {
        display: flex;
-gap: 3%;
-justify-content: center;
 
 } 
+.textsite3 {
+       margin-top: -5vw;
+    font-size: 3vw;
+margin-left: 11vw;
+}
 .site3 {
     width: 40%;
     height: 50vw;
-  
+    margin-left: -9vw;
+
 }
+.textsite4 {
+    margin-top: -5vw;
+    font-size: 3vw;
+margin-left: 10vw;
+}
+
 .site4 {
     width: 40%;
     height: 50vw;
+     margin-left: -10vw;
 }
 .sites5-6 {
        display: flex;
-gap: 3%;
-justify-content: center;
+
+}
+.textsite5 {
+    margin-top: -5vw;
+    font-size: 3vw;
+margin-left: 11vw;
 }
 .site5 {
      width: 40%;
     height: 50vw;
+    margin-left: -9vw;
+}
+.textsite6 {
+    margin-top: -5vw;
+    font-size: 3vw;
+margin-left: 10vw;
 }
 .site6 {
-     width: 40%;
+   width: 40%;
     height: 50vw;
+     margin-left: -10vw;
 }
 .adobe {
     height: 300vh;
