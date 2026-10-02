@@ -14,7 +14,7 @@ header {
     background-color: #E9ECEF;
     position: fixed;
 }
-.list1 {
+.list1 {    
     list-style-type: none;
     display: flex;
     margin-top: 2.5vh;
@@ -26,13 +26,15 @@ font-size: 2vh;
     color: #212529;
     text-decoration-line: none;
 }
+.hero {
+    height: 50vh;
+}
 h1 {
 padding-top: 10vh;
 text-align: center;
 font-size: 3vw;
 }
 .herotext {
-    margin-top: 10vw;
     min-width: 33%;
     max-width: 50%;
     padding-left: 2%;
@@ -41,25 +43,24 @@ font-size: 3vw;
 
 }
 .herotext1 {
-margin-top: 1vw;
+margin-top: 1%;
 }
 .herotitletext2 {
-margin-top: 1vw;
+margin-top: 1%;
 }
 .herotext2 {
-margin-top: 1vw;
+margin-top: 1%;
 }
 .herotitletext3 {
-margin-top: 1vw;
+margin-top: 1%;
 }
 .herotext3 {
-margin-top: 1vw;
+margin-top: 1%;
 }
-.websites {
-    margin-top: 4vh;
+
+ .websites {
+    margin-top: 10vh;
     background-color: #d41116;
-    height: 370vh;
-display: grid;
 }
 .title-websites {
     margin-top: 3%;
@@ -69,18 +70,15 @@ font-size: 3vw;
 .images-websites {
     display: flex;
     flex-direction: column;
-    margin-top: 20%;
     gap: 9.5%;
 }
 
 .sites1-2 {
     display: flex;
-margin-top: -70vh;
-
-
+    margin-top: 6%;
 }
 .textsite1 {
-    margin-top: -5vw;
+    margin-top: -5%;
     font-size: 3vw;
 margin-left: 11vw;
 }
@@ -90,7 +88,7 @@ margin-left: 11vw;
     margin-left: -9vw;
 }
 .textsite2 {
-    margin-top: -5vw;
+    margin-top: -5%;
     font-size: 3vw;
 margin-left: 10vw;
 }
@@ -150,8 +148,9 @@ margin-left: 10vw;
     height: 50vw;
      margin-left: -10vw;
 }
-.adobe {
-    height: 300vh;
+
+/* .adobe {
+    height: 120vh;
     background-color: #b5348b;
 }
 .titleadobe {
@@ -249,4 +248,4 @@ font-size: 3vw;
     height: 40vw;
     width: 40vw;
 margin-left: 0.3vw;
-}
+} */
