@@ -179,7 +179,7 @@ margin-left: 10vw;
 }
 .text-adobe2 {
 margin-left: 10vw;
-padding-top: 9vw;
+padding-top: 5.53vw;
 font-size: 3vw;
 }
 .adobeimg2 {
@@ -215,6 +215,37 @@ padding-top: 9vw;
 font-size: 3vw;
 }
 .adobeimg4 {
+    height: 40vw;
+    width: 40vw;
+margin-left: 0.3vw;
+}
+.adobe5-6 {
+    display: flex;
+    gap: 2.5%;
+margin-left: 10vw;
+}
+.adobe5 {
+
+}
+.text-adobe5 {
+margin-left: 10vw;
+padding-top: 9vw;
+font-size: 3vw;
+}
+.adobeimg5 {
+    height: 40vw;
+    width: 40vw;
+
+}
+.adobe6 {
+
+}
+.text-adobe6 {
+margin-left: 10vw;
+padding-top: 9vw;
+font-size: 3vw;
+}
+.adobeimg6 {
     height: 40vw;
     width: 40vw;
 margin-left: 0.3vw;

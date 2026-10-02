@@ -18,21 +18,21 @@ h1 {
 font-size: 1.7vh; 
 }
 }
-@media screen and (width = 2560px) {
+@media screen and (width <= 2561px) {
     .websites {
-        height: 280vh;
+        height: 340vh;
     }
 .images-websites {
-margin-top: 40%;
+margin-top: 0%;
 }
     
 }
 @media screen and (width <= 1440px) {
         .websites {
-        height: 240vh;
+        height: 310vh;
     }
 .images-websites {
-    margin-top: 40%;
+    margin-top: 0%;
 }
 }
 @media screen and (width <= 1040px) {
