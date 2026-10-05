@@ -63,14 +63,13 @@ margin-top: 1%;
     background-color: #d41116;
 }
 .title-websites {
-    margin-top: 3%;
+    padding-top: 3%;
 text-align: center;
 font-size: 3vw;
 }
 .images-websites {
     display: flex;
     flex-direction: column;
-    gap: 9.5%;
 }
 
 .sites1-2 {
@@ -100,7 +99,7 @@ margin-left: 10vw;
 
 .sites3-4 {
        display: flex;
-
+margin-top: 7%;
 } 
 .textsite3 {
        margin-top: -5vw;
@@ -126,7 +125,7 @@ margin-left: 10vw;
 }
 .sites5-6 {
        display: flex;
-
+margin-top: 7%;
 }
 .textsite5 {
     margin-top: -5vw;
@@ -149,7 +148,7 @@ margin-left: 10vw;
      margin-left: -10vw;
 }
 
-/* .adobe {
+.adobe {
     height: 120vh;
     background-color: #b5348b;
 }
@@ -161,6 +160,7 @@ font-size: 3vw;
 .adobe1-2 {
     display: flex;
     gap: 2.5%;
+    justify-content: center;
 }
 .text-adobe1 {
 margin-left: 10vw;
@@ -170,7 +170,7 @@ font-size: 3vw;
 .adobeimg1 {
     height: 40vw;
     width: 40vw;
-margin-left: 10vw;
+
 
 }
 .adobe2 {
@@ -189,7 +189,7 @@ font-size: 3vw;
 .adobe3-4 {
     display: flex;
     gap: 2.5%;
-margin-left: 10vw;
+justify-content: center;
 
 }
 .adobe3 {
@@ -221,7 +221,7 @@ margin-left: 0.3vw;
 .adobe5-6 {
     display: flex;
     gap: 2.5%;
-margin-left: 10vw;
+justify-content: center;
 }
 .adobe5 {
 
@@ -248,4 +248,4 @@ font-size: 3vw;
     height: 40vw;
     width: 40vw;
 margin-left: 0.3vw;
-} */
+}
