@@ -149,7 +149,7 @@ margin-left: 10vw;
 }
 
 .adobe {
-    height: 120vh;
+    height: 300vh;
     background-color: #b5348b;
 }
 .titleadobe {
@@ -248,4 +248,27 @@ font-size: 3vw;
     height: 40vw;
     width: 40vw;
 margin-left: 0.3vw;
+}
+footer {
+    height: 40vh;
+    background-color: #252323;
+
+}
+.title-footer {
+        padding-top: 3%;
+        color: #b5348b;
+text-align: center;
+font-size: 3vw;
+}
+.info1 {
+    color: #d41116;
+}
+.info2 {
+    color: #b5348b;
+}
+.info3 {
+    color: #d41116;
+}
+.info4 {
+    color: #b5348b;
 }

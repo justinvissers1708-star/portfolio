@@ -13,6 +13,11 @@
 
     100% {color: black;}
 }
+@keyframes changecolorfooter {
+    0% {color: #b5348b;}
+    50% {color: #d41116;}
+    100% {color: #b5348b;}
+}
 h1 span  {
   animation: changecolor1 3s ease-in-out infinite;
 }
@@ -60,3 +65,12 @@ h1 span  {
 .adobespan14 { animation: changecolor1 4s ease-in-out infinite; animation-delay: 2.6s;}
 .adobespan15 { animation: changecolor1 4s ease-in-out infinite; animation-delay: 2.8s;}
 .adobespan16 { animation: changecolor1 4s ease-in-out infinite; animation-delay: 3.0s;}
+.title-footer {
+   animation: changecolorfooter 3s ease-in-out infinite;   
+}
+.foot1 {animation: changecolorfooter 4s ease-in-out infinite; animation-delay: 0.0s;}
+.foot2 {animation: changecolorfooter 4s ease-in-out infinite; animation-delay: 0.2s;}
+.foot3 {animation: changecolorfooter 4s ease-in-out infinite; animation-delay: 0.4s;}
+.foot4 {animation: changecolorfooter 4s ease-in-out infinite; animation-delay: 0.6s;}
+.foot5 {animation: changecolorfooter 4s ease-in-out infinite; animation-delay: 0.8s;}
+.foot6 {animation: changecolorfooter 4s ease-in-out infinite; animation-delay: 1s;}
