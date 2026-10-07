@@ -25,7 +25,7 @@ justify-content: center;
 font-size: 2vh;
 }
 .nav1 {
-    color: #212529;
+    color: #252323;
     text-decoration-line: none;
 }
 .hero {
@@ -258,35 +258,72 @@ margin-left: 0.3vw;
 border-radius: 7vw;
 }
 .extra-adobe {
-display: flex;
-justify-content: center;
+    margin-top: 1.5vw;
+    margin-left: 30vw;
+    width: 40vw;
+  padding: 2vw;
+  border-radius: 2vw/5vw;
+  text-align: center;
 }
-.box-extra1 {
-height: 7vw;
-width: 25vw;
-margin-top: 2vw;
-border-radius: 2vw;
+.knop {
 background-color: #d41116;
+      font-size: 4vw;
+      padding-top: 2vw;
+      padding-bottom: 2vw;
+      padding-left: 7vw;
+      padding-right: 7vw;
+  color: #f2e0e0;
+  border-radius: 2vw/5vw;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+  color: #252323;
 }
-.textextra1 {
-text-align: center;
-font-size: 2vw; 
-padding-top: 1vw;
-color: #212529;
+.switch {
+      position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #252323;
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
 }
-.figma {
-    height: 200vh;
-    background-color: #d41116;
+.popup {
+margin-left: 20vw;
+height: 40vw;
+margin-top: 7vw;
+  padding: 2vw;
+  background: #f2e0e0;
+  border-radius: 5vw;
+  width: 60vw;
+  position: relative;
+  transition: all 5s ease-in-out;
 }
-.titlefigma {
-        padding-top: 3%;
-text-align: center;
-font-size: 3vw;
+.popup .sluiten {
+  position: absolute;
+  top: 2vw;
+  right: 3vw;
+  transition: all 200ms;
+  font-size: 5vw;
+  font-weight: bold;
+  text-decoration: none;
+  color: #252323;
+}
+.sluitentext {
+    font-size: 4vw;
+margin-top: 0.3vw;
+width: 100vw;
+margin-left: -25vw;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
 }
 footer {
     height: 40vh;
     background-color: #252323;
-
 }
 .title-footer {
         padding-top: 3%;

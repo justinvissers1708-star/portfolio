@@ -9,5 +9,15 @@
 }
 .box-extra1:hover {
 cursor: pointer;
-box-shadow: 1vw 1vw #292525;
+box-shadow: 1vw 1vw #252323;
+}
+.switch:target {
+      visibility: visible;
+  opacity: 1;
+}
+.popup .sluiten:hover {
+  color: #d41116;
+}
+.button:hover {
+  background: #b5348b;
 }
