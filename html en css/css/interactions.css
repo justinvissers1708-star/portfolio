@@ -7,3 +7,7 @@
 .herotitletext1, .herotitletext2, .herotitletext3:hover {
 
 }
+.box-extra1:hover {
+cursor: pointer;
+box-shadow: 1vw 1vw #292525;
+}

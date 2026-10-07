@@ -20,6 +20,6 @@ font-size: 1.7vh;
 }
 @media screen and (width <= 2561px) {
     .adobe {
-      height: 160vw;
+      height: 170vw;
     }
 }
