@@ -318,8 +318,20 @@ width: 100vw;
 margin-left: -25vw;
 }
 .popup .content {
-  max-height: 30%;
   overflow: auto;
+}
+.boxadobe {
+    margin-top: 8vw;
+    margin-left: 5vw;
+    height: 10vw;
+    width: 10vw;
+    background-color: #d41116;
+}
+.switchadobe {
+    padding-top: 3.5vw;
+    height: 10vw;
+    width: 10vw;
+color: #252323;
 }
 footer {
     height: 40vh;
