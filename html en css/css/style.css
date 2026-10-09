@@ -315,14 +315,18 @@ margin-top: 7vw;
     font-size: 4vw;
 margin-top: 0.3vw;
 width: 100vw;
-margin-left: -25vw;
+margin-left: -22vw;
 }
 .popup .content {
   overflow: auto;
 }
+.content {
+    display: flex;
+    margin-top: 10vw;
+    gap: 8vw;
+    justify-content: center;
+}
 .boxadobe {
-    margin-top: 8vw;
-    margin-left: 5vw;
     height: 10vw;
     width: 10vw;
     background-color: #d41116;
@@ -332,6 +336,20 @@ margin-left: -25vw;
     height: 10vw;
     width: 10vw;
 color: #252323;
+font-size: 2.5vw;
+}
+.boxmainsite {
+
+    height: 10vw;
+    width: 10vw;
+    background-color: #b5348b;
+}
+.switchmain {
+        padding-top: 3.5vw;
+    height: 10vw;
+    width: 10vw;
+color: #252323;
+font-size: 2.5vw;
 }
 footer {
     height: 40vh;
